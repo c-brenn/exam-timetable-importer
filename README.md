@@ -11,7 +11,7 @@ Based on [jameseggers' tcd calendar importer](https://github.com/jameseggers/tcd
 ```
 ####Install Dependencies
 ```
-    cd exam-calendar && sudo pip install -r requirements.txt
+    cd exam-timetable-importer && sudo pip install -r requirements.txt
 ```
 ####Run It
 ```   
