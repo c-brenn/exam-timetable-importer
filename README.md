@@ -15,5 +15,5 @@ Based on [jameseggers' tcd calendar importer](https://github.com/jameseggers/tcd
 ```
 ####Run It
 ```   
-    python calendar_importer.py
+    python exam_timetable_importer.py
 ```
