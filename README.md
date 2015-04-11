@@ -1,8 +1,8 @@
 TCD Exam Timetable Importer
 ============
 
-Copy your TCD exam timetable to your Google Calendar
-
+Copy your TCD exam timetable to your Google Calendar.
+Based on [jameseggers' tcd calendar importer](https://github.com/jameseggers/tcd-calendar)
 ## Installation
 
 ####Clone the project
